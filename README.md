@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Satyam
 - 👀 I’m interested in the era of tech.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning DSA in C++.
 - 💞️ I’m looking to collaborate on ...
 
 
